@@ -1,3 +1,10 @@
+> ⚠️ **已停止维护 · 不再继续更新**
+> 本模组不再更新：不会适配后续游戏版本，也不再修复问题。
+> 现有版本与说明保留在此，仅供存档与自行取用；游戏更新后可能失效。
+> This mod is no longer maintained. No further updates or compatibility fixes will be provided.
+
+---
+
 # 安抚者与电磁战备
 
 《绝地潜兵 2》Lua 注入型模组。**一个安装 ZIP 内含三个独立组件**，仅需 Bingus Shared Loader（API 1），不需要 HD2 Entity Locator 或其他共享定位器。
